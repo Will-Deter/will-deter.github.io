@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Will Deter
+#title: Will Deter
 email: wdeter1@binghamton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Experienced non-profit professional.
@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Focused on emergent, equity-first solutions.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "will-deter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://will-deter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cartesian-product
 
 # Build settings
