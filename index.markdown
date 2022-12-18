@@ -5,4 +5,5 @@
 layout: home
 ---
 
+![""](/assets/will.jpg "Will Deter")
 This is some content.
