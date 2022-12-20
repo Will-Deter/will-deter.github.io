@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![""](/assets/will.jpg "Will Deter")
+<img src="/assets/will.jpg" width="200" height="100">
 This is some content.
