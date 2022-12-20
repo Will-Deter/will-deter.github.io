@@ -6,4 +6,7 @@ layout: home
 ---
 
 <img src="/assets/will.jpg" width="200" height="auto" border="1px solid #000">
-This is some content.
+## Will Deter
+## Senior Director of Operations - Compliance
+## YMCA of WNC
+## Asheville, NC
