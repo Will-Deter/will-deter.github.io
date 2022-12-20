@@ -13,7 +13,7 @@ layout: home
 #### Asheville, NC
 
 <br clear="left"/>
-Thank you for visiting my website!  If you want to learn more about me or view my curriculum vitae, please visit the "About" page.  You can browse my posts below.
+Thank you for visiting!  If you want to learn more about me or view my curriculum vitae, please visit the "About" page.  You can browse my posts below.
 
 
 
