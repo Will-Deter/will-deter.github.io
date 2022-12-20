@@ -6,10 +6,11 @@ layout: home
 ---
 
 <img src="/assets/will.jpg" width="200" height="auto" border="1px solid #000" align="left" hspace="10" vspace="10">
-### Will Deter
-Senior Director of Operations - Compliance
-YMCA of WNC
-Asheville, NC
+###
+#### Will Deter
+#### Senior Director of Operations - Compliance
+#### YMCA of WNC
+#### Asheville, NC
 
 <br clear="left"/>
 Thank you for visiting my website!  If you want to learn more about me or view my curriculum vitae, please visit the "About" page.  You can browse my posts below.
