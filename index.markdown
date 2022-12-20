@@ -5,14 +5,11 @@
 layout: home
 ---
 
-<img src="/assets/will.jpg" width="200" height="auto" border="1px solid #000" align="left" hspace="10" vspace="10">
-Will Deter <br>
-Senior Director of Operations - Compliance <br>
-YMCA of WNC <br>
-Asheville, NC <br>
+<img src="/assets/will.jpg" width="200" height="auto" border="1px solid #000" align="right" hspace="10" vspace="10">
+Thank you for visiting!  If you want to learn more about me or view my curriculum vitae, please visit the "About" page.  You can browse my project posts below.
 
-<br clear="left"/>
-Thank you for visiting!  If you want to learn more about me or view my curriculum vitae, please visit the "About" page.  You can browse my posts below.
+<br clear="right"/>
+
 
 
 
