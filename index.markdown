@@ -5,5 +5,5 @@
 layout: home
 ---
 
-<img src="/assets/will.jpg" width="200" height="auto">
+<img src="/assets/will.jpg" width="200" height="auto" border="1px solid #000">
 This is some content.
