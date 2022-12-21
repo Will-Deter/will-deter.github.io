@@ -11,10 +11,11 @@ Thank you for visiting! This is a collection of my work on the modeling and anal
 
 
 <br clear="right"/>
+<br>
 If you are interested systems or complexity, I suggest you explore some of these:
 - [Center for Collective Dynamics of Complex Systems](https://coco.binghamton.edu/)
 - [Systems Science Program @ Binghamton University](https://www.binghamton.edu/ssie/graduate/systems-science.html)
-- [Sante Fe Institute](https://santafe.edu/)
+- [Sante Fe Institute](https://santafe.edu/) ([and their Complexity Podcast](https://complexity.simplecast.com/episodes))
 - [New England Complex Systems Institute](https://necsi.edu/)
 - [Complex Systems Society](https://cssociety.org/home)
 
