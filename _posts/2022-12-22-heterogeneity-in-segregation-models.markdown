@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Necessary Heterogeneity in Network Models of Residential Segregation"
-date:   2022-12-22 12:00:00 -0500
+date:   2022-12-21 00:00:00 -0500
 categories: projects
 ---
 <img src="/assets/segregation_models.png" width="400" height="auto" border="1px solid #000" align="right" hspace="10" vspace="10">
