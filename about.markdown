@@ -13,6 +13,15 @@ I will soon complete the MS in Systems Science program @ Binghamton University a
 <br>
 
 [My CV](https://will-deter.github.io/assets/Will%20Deter,%20CV,%20Dec%202022.pdf)
+
+<br>
+If you are interested systems or complexity, I suggest you explore some of these:
+- [Center for Collective Dynamics of Complex Systems](https://coco.binghamton.edu/)
+- [Systems Science Program @ Binghamton University](https://www.binghamton.edu/ssie/graduate/systems-science.html)
+- [Sante Fe Institute](https://santafe.edu/) ([and their Complexity Podcast](https://complexity.simplecast.com/episodes))
+- [New England Complex Systems Institute](https://necsi.edu/)
+- [Complex Systems Society](https://cssociety.org/home)
+
 <br>
 
 I acknowledge that the land our community lives on today is the ancestral land of the ᏣᎳᎫᏪᏘᏱ Tsalaguwetiyi (Cherokee, East). You can visit [native-land.ca](https://native-land.ca/) to learn more about the Indigenous peoples whose ancestral lands Asheville (or other areas) occupies.
