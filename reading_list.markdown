@@ -10,29 +10,29 @@ I love to read and learn about new things all the time. Below, I've shared some 
 ## In Progress
 
 ### Books
-Vince (2022). Nomad Century: How Climate Migration Will Reshape Our World
+*Vince (2022). Nomad Century: How Climate Migration Will Reshape Our World*
 
 ## Notable Past Reads
 
 ### Books
-Walter (2022). How Civil Wars Start and How to Stop Them
+*Walter (2022). How Civil Wars Start and How to Stop Them*
 
-Nestor (2020). Breath: The New Science of a Lost Art
+*Nestor (2020). Breath: The New Science of a Lost Art*
 
-Hand (2020). Alien Oceans: The Search for Life in the Depths of Space
+*Hand (2020). Alien Oceans: The Search for Life in the Depths of Space*
 
-Winegard (2019). The Mosquito: A Human History of Our Deadliest Predator
+*Winegard (2019). The Mosquito: A Human History of Our Deadliest Predator*
 
-Mann (2018). The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions to Shape Tomorrow's World
+*Mann (2018). The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions to Shape Tomorrow's World*
 
-Gaddis (2018). On Grand Strategy
+*Gaddis (2018). On Grand Strategy*
 
-Rothstein (2017). The Color of Law: A Forgotten History of How Our Government Segregated America
+*Rothstein (2017). The Color of Law: A Forgotten History of How Our Government Segregated America*
 
-Minoui (2017). The Book Collectors: A Band of Syrian Rebels and the Stories That Carried Them Through a War
+*Minoui (2017). The Book Collectors: A Band of Syrian Rebels and the Stories That Carried Them Through a War*
 
-Parry (2017). Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone
+*Parry (2017). Ghosts of the Tsunami: Death and Life in Japan's Disaster Zone*
 
-Kimmerer (2013). Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants
+*Kimmerer (2013). Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants*
 
-Mann (2005). 1491: New Revelations of the Americas Before Columbus
+*Mann (2005). 1491: New Revelations of the Americas Before Columbus*
