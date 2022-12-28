@@ -16,7 +16,7 @@ Wilkerson (2020). *Caste: The Origins of our Discontents*
 
 Robinson (2020). *The Ministry for the Future*
 
-### Textbooks & Papers, etc.
+### Textbooks, Papers, etc.
 
 Thurner, Hanel, & Klimek (2018). *Introduction to the Theory of Complex Systems*
 
@@ -56,8 +56,7 @@ Mitchell (2009). *Complexity: A Guided Tour*
 
 *Mann (2005). *1491: New Revelations of the Americas Before Columbus*
 
-### Academic Books
-
+### Textbooks, Papers, etc.
 Sayama (2015). *Introduction to the Modeling and Analysis of Complex Systems*
 
 Nikolic (2009). *Co-Evolutionary Method for Modeling Large-Scale Socio-Technical Systems Evolution*
