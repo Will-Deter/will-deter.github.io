@@ -27,7 +27,6 @@ I acknowledge that the land our community lives on today is the ancestral land o
 ___
 
 # More On Complex Systems
-<br>
 If you are interested systems or complexity, I suggest you explore some of these:
 - [Center for Collective Dynamics of Complex Systems](https://coco.binghamton.edu/)
 - [Systems Science Program @ Binghamton University](https://www.binghamton.edu/ssie/graduate/systems-science.html)
