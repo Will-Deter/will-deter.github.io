@@ -35,34 +35,11 @@ Mitchell (2009). *Complexity: A Guided Tour*
 
 Mann (2005). *1491: New Revelations of the Americas Before Columbus*
 
-### Textbooks, Papers, etc.
-Sayama (2015). *Introduction to the Modeling and Analysis of Complex Systems*
-
-Nikolic (2009). *Co-Evolutionary Method for Modeling Large-Scale Socio-Technical Systems Evolution*
-
-Klir (2001). *Facets of Systems Science*
-
-Sterman (2000). *Business Dynamics*
-
-Jang, Sun, & Mizutani (1997). *Neuro-Fuzzy and Soft Computing*
-
-
 ## In Progress
 
-### Books
 Vince (2022). *Nomad Century: How Climate Migration Will Reshape Our World*
 
 Wilkerson (2020). *Caste: The Origins of our Discontents*
 
 Robinson (2020). *The Ministry for the Future*
-
-### Textbooks, Papers, etc.
-
-Thurner, Hanel, & Klimek (2018). *Introduction to the Theory of Complex Systems*
-
-Barabási (2016). *Network Science* 
-
-Floreano & Mattiussi (2008). *Bio-Inspired Artificial Intelligence*
-
-Ashby (1957). *An Introduction to Cybernetics*
 
