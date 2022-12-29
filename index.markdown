@@ -22,7 +22,6 @@ I am a husband, father, and non-profit professional living and working in Ashevi
 
 [**My CV**](https://will-deter.github.io/assets/Will%20Deter,%20CV,%20Dec%202022.pdf)
 
-<br>
 I acknowledge that the land our community lives on today is the ancestral land of the ᏣᎳᎫᏪᏘᏱ Tsalaguwetiyi (Cherokee, East). You can visit [native-land.ca](https://native-land.ca/) to learn more about the Indigenous peoples whose ancestral lands Asheville (or other areas) occupies.
 
 ___
