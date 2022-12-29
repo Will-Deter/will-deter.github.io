@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Novel, Agent-Based TSP Solution Approximation Method"
+title:  "Novel Agent-Based TSP Solution Approximation Method"
 date:   2022-12-26 00:00:00 -0500
 categories: projects
 ---
