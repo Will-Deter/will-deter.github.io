@@ -23,7 +23,7 @@ email: wdeter1@binghamton.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Experienced non-profit professional.
   Masters student in Systems Science at Binghamton University.
-  Using scientific computing to enhance public administration.
+  Using modeling and simulation to inform management of complex systems.
   Focused on emergent, equity-first solutions.
 
 baseurl: "" # the subpath of your site, e.g. /blog
