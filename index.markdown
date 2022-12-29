@@ -22,6 +22,9 @@ I am a husband, father, and non-profit professional living and working in Ashevi
 
 [**My CV**](https://will-deter.github.io/assets/Will%20Deter,%20CV,%20Dec%202022.pdf)
 
+<br>
+I acknowledge that the land our community lives on today is the ancestral land of the ᏣᎳᎫᏪᏘᏱ Tsalaguwetiyi (Cherokee, East). You can visit [native-land.ca](https://native-land.ca/) to learn more about the Indigenous peoples whose ancestral lands Asheville (or other areas) occupies.
+
 ___
 
 # More On Complex Systems
@@ -32,8 +35,5 @@ If you are interested systems or complexity, I suggest you explore some of these
 - [Sante Fe Institute](https://santafe.edu/) ([and their Complexity Podcast](https://complexity.simplecast.com/episodes))
 - [New England Complex Systems Institute](https://necsi.edu/)
 - [Complex Systems Society](https://cssociety.org/home)
-
-<br>
-I acknowledge that the land our community lives on today is the ancestral land of the ᏣᎳᎫᏪᏘᏱ Tsalaguwetiyi (Cherokee, East). You can visit [native-land.ca](https://native-land.ca/) to learn more about the Indigenous peoples whose ancestral lands Asheville (or other areas) occupies.
 
 ___
