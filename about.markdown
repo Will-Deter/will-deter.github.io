@@ -11,7 +11,7 @@ I am a husband, father, and non-profit professional living and working in Ashevi
 I will soon complete the MS in Systems Science program @ Binghamton University and plan to enter the PhD program in 2023.
 <br>
 
-[My CV](https://will-deter.github.io/assets/Will%20Deter,%20CV,%20Dec%202022.pdf)
+[**My CV**](https://will-deter.github.io/assets/Will%20Deter,%20CV,%20Dec%202022.pdf)
 
 <br>
 If you are interested systems or complexity, I suggest you explore some of these:
