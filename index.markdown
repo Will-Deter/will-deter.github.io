@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/will.jpg" width="auto" height="300" border="1px solid #000" align="right" hspace="10" vspace="10">
+<img src="/assets/will.jpg" width="auto" height="250" border="1px solid #000" align="right" hspace="10" vspace="10">
 
 # Welcome!
 Thank you for visiting! This is a collection of my work on the modeling and analysis of complex systems. I am primarily interested in the application of systems science to the management of complex systems. Projects are ongoing across a broad set of application areas, including business, climate and sustainability, sociology, public administration and health, disaster management, and others. You can learn more about me, view my curriculum vitae, or browse my project posts below.
@@ -14,7 +14,7 @@ Thank you for visiting! This is a collection of my work on the modeling and anal
 
 ___
 
-<img src="/assets/family.jpg" width="auto" height="300" border="1px solid #000" align="right" hspace="10" vspace="10">
+<img src="/assets/family.jpg" width="auto" height="250" border="1px solid #000" align="right" hspace="10" vspace="10">
 
 # About Me
 I am a husband, father, and non-profit professional living and working in Asheville, North Carolina.  As I am sure is true for many others, I am fascinated by the set of opportunities and challenges this region provides. I am particularly interested in working to dismantle the systems that manifest intergenerational harms within our region. The recognition that these harms are the result of systemic issues sparked my interested in the science of systems. I will soon complete the MS in Systems Science program @ Binghamton University and plan to enter the PhD program in 2023.
