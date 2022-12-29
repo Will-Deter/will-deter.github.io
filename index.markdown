@@ -4,10 +4,9 @@
 
 layout: home
 ---
-
+# Welcome!
 <img src="/assets/will.jpg" width="auto" height="250" border="1px solid #000" align="right" hspace="10" vspace="10">
 
-# Welcome!
 Thank you for visiting! This is a collection of my work on the modeling and analysis of complex systems. I am primarily interested in the application of systems science to the management of complex systems. I use a variety of modeling and machine intelligence methods to better understand complex situations and guide decisions:
 - Agent-Based and Network Models
 - System Dynamics Models
