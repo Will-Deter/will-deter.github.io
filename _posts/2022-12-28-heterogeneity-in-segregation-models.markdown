@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Necessary Heterogeneity in Network Models of Residential Segregation"
-date:   2022-12-28 00:00:00 -0500
+title:  "Behavioral and Topological Heterogeneities in Network Models of Segregation"
+date:   2023-05-04 00:00:00 -0500
 categories: projects
 ---
 <img src="/assets/tolerance_clusters.png" width="400" height="auto" border="1px solid #000" align="right" hspace="10" vspace="10">
