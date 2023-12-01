@@ -9,15 +9,9 @@ layout: home
 
 # Welcome!
 
-Thank you for visiting! This is a collection of my work on the modeling and analysis of complex systems. I am primarily interested in the application of systems science to the management of complex systems. I use a variety of modeling and machine intelligence methods to better understand complex situations and guide decisions:
-- Agent-Based and Network Models
-- System Dynamics Models
-- Cellular Automata
-- Geospatial Models
-- Artificial Neural Networks
-- Evolutionary Algorithms
+Thank you for visiting! This is a collection of my work on the modeling and analysis of complex systems. I am primarily interested in the application of systems science to the management of complex systems. Most recently, I've been studying heterogeneity in social computation. In my professional life, I use a variety of modeling and machine intelligence methods to better understand complex situations and guide decisions. 
 
-Projects are ongoing across a broad set of application areas, including business, climate and sustainability, sociology, public administration and health, disaster management, and others. You can learn more about me, view my curriculum vitae, or browse my project posts below.
+Projects are ongoing across a broad set of application areas. You can learn more about me, view my CV, or browse my project posts below.
 
 ___
 
