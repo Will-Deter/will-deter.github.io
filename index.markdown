@@ -11,27 +11,6 @@ layout: home
 
 Thank you for visiting! This is a collection of my work on the modeling and analysis of complex systems. I am primarily interested in the application of systems science to the management of complex systems. Most recently, I've been studying heterogeneity in social computation. In my professional life, I use a variety of modeling and machine intelligence methods to better understand complex situations and guide decisions. 
 
-Projects are ongoing across a broad set of application areas. You can learn more about me, view my CV, or browse my project posts below.
-
-___
-
-<img src="/assets/family.jpg" width="auto" height="250" border="1px solid #000" align="right" hspace="10" vspace="10">
-
-# About Me
-I am a husband, father, and non-profit professional living and working in Asheville, North Carolina.  As I am sure is true for many others, I am fascinated by the set of opportunities and challenges this region provides. I am particularly interested in working to dismantle the systems that manifest intergenerational harms within our region. The recognition that these harms are the result of systemic issues sparked my interested in the science of systems. I will soon complete the MS in Systems Science program @ Binghamton University and plan to enter the PhD program in 2023.
+Projects are ongoing across a broad set of application areas. You can browse my project posts below.
 
 
-<a href="https://will-deter.github.io/assets/Will%20Deter,%20CV,%202023%20Online.pdf" target="_blank">**My CV**</a>
-
-___
-
-# More on Complex Systems
-If you are interested systems or complexity, I suggest you explore some of these:
-- <a href="https://coco.binghamton.edu/" target="_blank">Center for Collective Dynamics of Complex Systems</a>
-- <a href="https://www.binghamton.edu/ssie/graduate/systems-science.html" target="_blank">Systems Science Program @ Binghamton University</a>
-- <a href="https://santafe.edu/" target="_blank">Sante Fe Institute</a> (<a href="https://complexity.simplecast.com/episodes" target="_blank">and their Complexity Podcast</a>)
-- <a href="https://necsi.edu/" target="_blank">New England Complex Systems Institute</a>
-- <a href="https://cssociety.org/home" target="_blank">Complex Systems Society</a>
-- <a href="https://comdig.unam.mx/" target="_blank">Complexity Digest</a>
-
-___
