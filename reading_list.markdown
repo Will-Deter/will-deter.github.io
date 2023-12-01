@@ -9,6 +9,8 @@ I love to read and learn about new things all the time. Below, I've shared some 
 ## Notable Past Reads
 
 ### Books
+Brooks-Dalton (2022). *The Light Pirate*
+
 Walter (2022). *How Civil Wars Start and How to Stop Them*
 
 Nestor (2020). *Breath: The New Science of a Lost Art*
@@ -35,13 +37,12 @@ Mitchell (2009). *Complexity: A Guided Tour*
 
 Mann (2005). *1491: New Revelations of the Americas Before Columbus*
 
-Marquez ()
+García Márquez (1969). *One Hundred Years of Solitude*
 
 ## In Progress
-
-Vince (2022). *Nomad Century: How Climate Migration Will Reshape Our World*
+Grann (2023). *The Wager*
 
 Wilkerson (2020). *Caste: The Origins of our Discontents*
 
-Robinson (2020). *The Ministry for the Future*
+
 
