@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/will.jpg" width="auto" height="250" border="1px solid #000" align="right" hspace="10" vspace="10">
+<img src="/assets/headshot.jpg" width="auto" height="250" border="1px solid #000" align="right" hspace="10" vspace="10">
 
 # Welcome!
 
