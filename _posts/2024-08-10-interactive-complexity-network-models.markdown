@@ -6,7 +6,7 @@ categories: projects
 ---
 <img src="/assets/interactive_complexity.png" width="400" height="auto" border="1px solid #000" align="right" hspace="10" vspace="10">
 
-
+(As published in the [Northeast Journal of Complex System](https://orb.binghamton.edu/nejcs/))
 ### Abstract
 This work presents an innovative approach to understanding and measuring complexity in network models. We revisit several classic characterizations of complexity and propose a novel measure that represents complexity as an interactive process. This measure incorporates transfer entropy and Jensen-Shannon divergence to quantify both the information transfer within a system and the dynamism of its constituents' state changes.
 
