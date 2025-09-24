@@ -6,10 +6,18 @@ permalink: /reading_list/
 
 I love to read and learn about new things all the time. Below, I've shared some of the things that I'm currently working through as well as some of the books that I've come to love over the years. If you happen to pick any of these up, I hope you enjoy them as much as I have!
 
+
+## What I'm Reading Right Now
+
+Wilkerson (2020). *Caste: The Origins of our Discontents*
+
+Druyan & Sagan (1995). *The Demon-Haunted World*
+
 ## Notable Past Reads
 
 ### Books
-Brooks-Dalton (2022). *The Light Pirate*
+
+#### Non-Fiction
 
 Walter (2022). *How Civil Wars Start and How to Stop Them*
 
@@ -37,12 +45,12 @@ Mitchell (2009). *Complexity: A Guided Tour*
 
 Mann (2005). *1491: New Revelations of the Americas Before Columbus*
 
+
+#### Fiction
+Brooks-Dalton (2022). *The Light Pirate*
+
 García Márquez (1969). *One Hundred Years of Solitude*
 
-## In Progress
-Grann (2023). *The Wager*
-
-Wilkerson (2020). *Caste: The Origins of our Discontents*
 
 
 
